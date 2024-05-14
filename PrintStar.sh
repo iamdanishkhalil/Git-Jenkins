@@ -18,7 +18,7 @@ print_triangle() {
 
         # Move to the next line
         echo ""
-    donee
+    doneee
 }
 
 
